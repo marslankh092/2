@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#465EFC</color>
+    <color name="colorPrimary">#465EFC</color>
+    <color name="colorAccent">#465EFC</color>
+    <color name="colorGreen">#4CB04E</color>
+    <color name="dark_gray">#7f000000</color>
+    <color name="light_gray">#c8c8c8</color>
+    <color name="colorBlue">#0066DC</color>
+
+    <color name="facebook">#ffffff</color>
+    <color name="instagram">#ffffff</color>
+    <color name="vimeo">#ffffff</color>
+    <color name="dailymotion">#ffffff</color>
+    <color name="vlive">#ffffff</color>
+    <color name="twitter">#ffffff</color>
+    <color name="vine">#ffffff</color>
+    <color name="vk">#ffffff</color>
+    <color name="tumblr">#ffffff</color>
+    <color name="myspace">#ffffff</color>
+    <color name="youku">#ffffff</color>
+    <color name="tudou">#ffffff</color>
+</resources>

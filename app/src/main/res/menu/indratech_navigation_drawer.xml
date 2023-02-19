@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="@string/indratech_title_home"/>
+
+        <item
+            android:id="@+id/nav_history"
+            android:icon="@drawable/ic_no_history"
+            android:title="@string/history_indratech" />
+
+        <item
+            android:id="@+id/nav_downloads"
+            android:icon="@drawable/ic_downloads"
+            android:title="@string/indratech_title_downloads" />
+
+        <item
+            android:id="@+id/nav_share"
+            android:icon="@drawable/ic_share"
+            android:title="@string/shareus_indratech" />
+
+        <item
+            android:id="@+id/nav_rate"
+            android:icon="@drawable/ic_rate"
+            android:title="@string/rate_indratech" />
+
+        <item
+            android:id="@+id/nav_more_app"
+            android:icon="@drawable/ic_app"
+            android:title="@string/indratech_moreApp" />
+
+        <item
+            android:id="@+id/nav_privacy"
+            android:icon="@drawable/ic_policy"
+            android:title="@string/privacy_policy_indratech" />
+
+        <item
+            android:id="@+id/nav_info"
+            android:icon="@drawable/ic_info"
+            android:title="@string/about_us" />
+
+    </group>
+
+
+
+
+
+</menu>

@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">TOTO - Video Downloader</string>
+
+    <string name="indratech_title_home">Home</string>
+    <string name="indratech_title_downloads">Downloads</string>
+    <string name="indratech_title_whatsapp">Whatsapp</string>
+
+    <string name="whatsapp_download_indratech">Whatsapp Status Downloader</string>
+    <string name="no_status_indratech">No status is available. Watch any status update and come back here!</string>
+    <string name="StatusParsing_indratech">Parsing Statuses</string>
+
+    <string name="enter_url_indratech">  Paste or Search URL</string>
+
+    <string name="msg_share_indratech">Download this awesome all video downloader app!</string>
+    <string name="app_link_indratech">https://play.google.com/store</string>
+
+    <string name="no_history_indratech">No History</string>
+    <string name="history_indratech">history</string>
+    <string name="delete_indratech">Delete</string>
+    <string name="open_url_indratech">Open Url</string>
+    <string name="copy_url_indratech">Copy Url</string>
+    <string name="copy_msg_indratech">URL Copied</string>
+    <string name="video_indratech">Videos</string>
+    <string name="share_indratech">Share</string>
+    <string name="shareus_indratech">Share Us</string>
+    <string name="indratech_moreApp">More App</string>
+    <string name="share_msg_indratech">I have found 😊 this Great app. Download this video downloader app.😘</string>
+    <string name="go_to_folder_indratech">Location</string>
+    <string name="rename_indratech">Rename</string>
+    <string name="download">Download</string>
+    <string name="speed_0_indratech">Speed: 0KB/s</string>
+    <string name="remaining_undefine_indratech">Remaining: —</string>
+    <string name="empty_download_list_indratech">Do you want to clear this list?</string>
+
+    <string name="settings_indratech">Settings</string>
+    <string name="vibrate_indratech">Vibrate on Download Complete</string>
+    <string name="sound_indratech">Sound on Download Complete</string>
+    <string name="browser_indratech">Browser</string>
+    <string name="ad_blocker_indratech">Ad Blocker</string>
+    <string name="help_indratech">Help</string>
+    <string name="rate_indratech">Rate Us</string>
+    <string name="privacy_policy_indratech">Privacy Policy</string>
+    <string name="privacy_policy_link_indratech">https://indratech.in/privacy-policy-2/</string>
+    <string name="communicate_indratech">Communicate</string>
+    <string name="about_us">About Us</string>
+
+
+
+    <string-array name="blocked_sites">
+        <item>youtube.com</item>
+    </string-array>
+
+</resources>

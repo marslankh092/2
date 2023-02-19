@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/history_delete"
+        android:title="@string/delete_indratech" />
+
+    <item
+        android:id="@+id/history_open"
+        android:title="@string/open_url_indratech" />
+
+    <item
+        android:id="@+id/history_copy"
+        android:title="@string/copy_url_indratech" />
+
+</menu>
